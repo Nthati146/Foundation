@@ -1,4 +1,4 @@
-using Disaster_Alleviation_Foundation.Data;
+using DisasterFoundation.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
